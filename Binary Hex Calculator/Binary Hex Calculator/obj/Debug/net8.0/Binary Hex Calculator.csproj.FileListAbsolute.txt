@@ -1,0 +1,14 @@
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.AssemblyInfoInputs.cache
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.AssemblyInfo.cs
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.csproj.CoreCompileInputs.cache
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\bin\Debug\net8.0\Binary Hex Calculator.exe
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\bin\Debug\net8.0\Binary Hex Calculator.deps.json
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\bin\Debug\net8.0\Binary Hex Calculator.runtimeconfig.json
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\bin\Debug\net8.0\Binary Hex Calculator.dll
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\bin\Debug\net8.0\Binary Hex Calculator.pdb
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.dll
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\refint\Binary Hex Calculator.dll
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.pdb
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\Binary Hex Calculator.genruntimeconfig.cache
+S:\Computer Science\Git\AlexandruCracea\Source\Binary Hex Calculator\Binary Hex Calculator\obj\Debug\net8.0\ref\Binary Hex Calculator.dll
